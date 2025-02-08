@@ -3,7 +3,7 @@
 <img align='right' alt='Masoud' width='400' src='https://bayanbox.ir/view/1353559592827697052/programmer.gif'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masoudbeheshti&label=Profile%20views&color=0e75b6&style=flat" alt="masoudbeheshti" /> </p>
 
-- 🌱 I’m currently learning **redis**
+- 🌱 I’m currently learning more about **LINUX**
 
 - 👨‍💻 All of my public projects are available at [https://github.com/MasoudBeheshti](https://github.com/MasoudBeheshti)
 
@@ -23,7 +23,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masoudbeheshti&show_icons=true&locale=en&layout=compact" alt="masoudbeheshti" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masoudbeheshti&show_icons=true&locale=en" alt="masoudbeheshti" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masoudbeheshti&" alt="masoudbeheshti" /></p>
 
